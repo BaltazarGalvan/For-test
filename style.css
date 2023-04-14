@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+
+  color: purple;
+  width: 100%;
+  padding: 5px;
+}
+img {
+  width: 100vw;
+  object-fit: cover;
+}
+
+/* .carousel-indicators button {
+  background-color: red;
+} */
+
+.carousel-item {
+  width: 100%;
+}
+
+.under-construction {
+  margin: 20px auto;
+  width: 100%;
+  background-color: grey;
+  opacity: 80%;
+}
